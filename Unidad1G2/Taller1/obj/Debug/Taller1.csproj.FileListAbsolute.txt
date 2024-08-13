@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Unidad1G2\Taller1\obj\Debug\Taller1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Unidad1G2\Taller1\obj\Debug\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Unidad1G2\Taller1\bin\Debug\Taller1.exe.config
+C:\Users\HP\source\repos\Unidad1G2\Taller1\bin\Debug\Taller1.exe
+C:\Users\HP\source\repos\Unidad1G2\Taller1\bin\Debug\Taller1.pdb
+C:\Users\HP\source\repos\Unidad1G2\Taller1\obj\Debug\Taller1.exe
+C:\Users\HP\source\repos\Unidad1G2\Taller1\obj\Debug\Taller1.pdb
